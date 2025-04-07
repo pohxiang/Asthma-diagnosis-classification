@@ -1,0 +1,33 @@
+Categories
+Smoking 
+Physical Activity 
+Pollution Exposure
+Pet Allergy
+FamilyHistoryAsthma
+Diagnosis 
+
+Wheezing: Presence of wheezing, where 0 indicates No and 1 indicates Yes. (X)
+Exercise Induced : Presence of symptoms induced by exercise, where 0 indicates No and 1 indicates Yes.
+Coughing : Presence of coughing, where 0 indicates No and 1 indicates Yes.
+ChestTightness: Presence of chest tightness, where 0 indicates No and 1 indicates Yes.
+Pollution Exposure : >2
+
+smok- smoking
+phyA - physical activity
+eaf - environ
+pe - polluiton
+petA - pet
+fha - family 
+whez - wheezing
+
+Pollution Exposure > 2, 
+having smoking habits, 
+having pet allergies, 
+having family history of Asthma  
+physical activity < 4 
+have a significant influence on asthma.
+ 
+
+
+
+BMI: Body Mass Index of the patients, ranging from 15 to 40. (25>)
